@@ -1,16 +1,23 @@
-# testso_app
+# testso
 
-A new Flutter application.
+Práctica para detectar la plataforma y mostrar la interfaz de usuario que se elija, por default muestra los componentes propios del sistema operativo en el que se está ejecutando.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p align="center">
+		<div style="display: table; clear: both;width: 90%;">
+				<div style="float: left; width: 50%; padding: 10px; background-color:#aaa;">
+						<h2>Android</h2>
+						<p align="center">
+							<img src="https://github.com/argeliaska/flutter_practicas/blob/main/test_plataforma/screenshoots/Android_7.jpeg" alt="Aspecto en Android">
+							<img src="https://github.com/argeliaska/flutter_practicas/blob/main/test_plataforma/screenshoots/Android_3.jpeg" alt="Aspecto en Android">
+						</p>
+				</div>
+				<div style="float: left; width: 50%; padding: 10px; background-color:#bbb;">
+						<h2>iOS</h2>
+						<p align="center">
+							<img src="https://github.com/argeliaska/flutter_practicas/blob/main/test_plataforma/screenshoots/iOS_1.jpeg" alt="Aspecto en iOS">
+							<img src="https://github.com/argeliaska/flutter_practicas/blob/main/test_plataforma/screenshoots/iOS_4.jpeg" alt="Aspecto en iOS">
+						</p>
+				</div>
+		</div>
+</p>
