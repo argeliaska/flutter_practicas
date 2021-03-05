@@ -1,5 +1,4 @@
 # Proyectos de practicas en Flutter
 
-## 
-- test_plataforma
-Detectar la plataforma de ejecución
+## test_plataforma
+- Detectar la plataforma de ejecución
